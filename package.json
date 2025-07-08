@@ -93,7 +93,7 @@
         "@qdrant/openapi-typescript-fetch": "1.2.6",
         "openai": "4.96.0",
         "protobufjs": "7.4.0"
-        "zod": "^3.22.2",
+        "zod": "^3.22.2"
 
     },
     "eslintIgnore": [
