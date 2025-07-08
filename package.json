@@ -93,10 +93,10 @@
         "@qdrant/openapi-typescript-fetch": "1.2.6",
         "openai": "4.96.0",
         "protobufjs": "7.4.0"
-        "overrides": {
-        "zod": "3.23.8"
-
     },
+    "overrides": {
+     "zod": "3.23.8"
+  },
     "eslintIgnore": [
         "**/dist",
         "**/node_modules",
